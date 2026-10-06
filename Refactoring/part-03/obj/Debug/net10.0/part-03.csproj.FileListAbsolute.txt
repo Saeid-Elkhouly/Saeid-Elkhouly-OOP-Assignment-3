@@ -1,0 +1,15 @@
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-OOP-Assignment-3\Refactoring\part-03\bin\Debug\net10.0\part-03.exe
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-OOP-Assignment-3\Refactoring\part-03\bin\Debug\net10.0\part-03.deps.json
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-OOP-Assignment-3\Refactoring\part-03\bin\Debug\net10.0\part-03.runtimeconfig.json
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-OOP-Assignment-3\Refactoring\part-03\bin\Debug\net10.0\part-03.dll
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-OOP-Assignment-3\Refactoring\part-03\bin\Debug\net10.0\part-03.pdb
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-OOP-Assignment-3\Refactoring\part-03\obj\Debug\net10.0\part-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-OOP-Assignment-3\Refactoring\part-03\obj\Debug\net10.0\part-03.AssemblyInfoInputs.cache
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-OOP-Assignment-3\Refactoring\part-03\obj\Debug\net10.0\part-03.AssemblyInfo.cs
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-OOP-Assignment-3\Refactoring\part-03\obj\Debug\net10.0\part-03.csproj.CoreCompileInputs.cache
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-OOP-Assignment-3\Refactoring\part-03\obj\Debug\net10.0\part-03.sourcelink.json
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-OOP-Assignment-3\Refactoring\part-03\obj\Debug\net10.0\part-03.dll
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-OOP-Assignment-3\Refactoring\part-03\obj\Debug\net10.0\refint\part-03.dll
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-OOP-Assignment-3\Refactoring\part-03\obj\Debug\net10.0\part-03.pdb
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-OOP-Assignment-3\Refactoring\part-03\obj\Debug\net10.0\part-03.genruntimeconfig.cache
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-OOP-Assignment-3\Refactoring\part-03\obj\Debug\net10.0\ref\part-03.dll
